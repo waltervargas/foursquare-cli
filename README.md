@@ -1,0 +1,4 @@
+foursquare-cli
+==============
+
+Foursquare client
